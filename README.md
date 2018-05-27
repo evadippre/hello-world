@@ -1,4 +1,4 @@
 # hello-world
 just another repository
 
-Hi my nae is Eva, I trying to complete the project
+Hi my name is Eva, I trying to complete the project
